@@ -1,1 +1,1 @@
-print("bananananana")
+print("idk, school sucks")
